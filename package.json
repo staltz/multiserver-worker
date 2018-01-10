@@ -1,6 +1,6 @@
 {
   "name": "multiserver-worker",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A multiserver plugin for Web Workers",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   "author": "staltz.com",
   "license": "MIT",
   "dependencies": {
-    "pull-worker": "^1.0.0"
+    "pull-worker": "^1.1.0"
   },
   "devDependencies": {
     "multiserver": "^1.10.0",
