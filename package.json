@@ -1,0 +1,22 @@
+{
+  "name": "multiserver-worker",
+  "version": "1.0.0",
+  "description": "A multiserver plugin for Web Workers",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "author": "staltz.com",
+  "license": "MIT",
+  "dependencies": {
+    "pull-worker": "^1.0.0"
+  },
+  "devDependencies": {
+    "multiserver": "^1.10.0",
+    "muxrpc": "^6.4.0",
+    "pull-stream": "^3.6.1",
+    "stream-to-pull-stream": "^1.7.2",
+    "tape": "^4.8.0",
+    "tiny-worker": "^2.1.1"
+  }
+}
