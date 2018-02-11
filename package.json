@@ -13,7 +13,7 @@
   },
   "devDependencies": {
     "multiserver": "^1.10.0",
-    "muxrpc": "^6.4.0",
+    "muxrpc": "7.0.0",
     "pull-stream": "^3.6.1",
     "stream-to-pull-stream": "^1.7.2",
     "tape": "^4.8.0",
